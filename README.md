@@ -55,7 +55,6 @@ streamlit run main.py
    git clone https://github.com/SusanaFRo/Project_Pollution-Health-Energy_20250321.git
 
 
-
 1. DESCRIPTION
    
 The project aims to analyse the relationship between the energy production matrix (broken down by sources such as fossil fuels, renewable energy, nuclear energy, etc.) and air quality - and how these two factors influence the incidence of serious diseases (respiratory diseases, cardiovascular diseases and lung cancer). Data from 30 countries from the period 2010 to 2019 will be integrated in order to analyse both temporal and country-specific differences.
