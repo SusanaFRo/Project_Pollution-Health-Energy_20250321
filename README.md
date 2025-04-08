@@ -1,3 +1,10 @@
+TITEL:
+
+"Auswirkungen der Energiewende auf Luftqualität und Gesundheit in Europa von 2010 bis 2019"
+
+"Impact of the energy transition on air quality and health in Europe from 2010 to 2019"
+
+
 1. BESCHREIBUNG
    
 Das Projekt zielt darauf ab, den Zusammenhang zwischen der Energieerzeugungsmatrix (aufgeschlüsselt nach Quellen wie fossile Brennstoffe, erneuerbare Energien, Kernenergie etc.) und der Luftqualität zu untersuchen – und wie diese beiden Faktoren die Inzidenz von schweren Krankheiten (respiratorische Erkrankungen, Herz-Kreislauf-Erkrankungen sowie Lungenkrebs) beeinflussen. Dabei werden Daten von 30 Ländern aus dem Zeitraum 2010 bis 2019 integriert, um sowohl zeitliche als auch länderspezifische Unterschiede zu analysieren.
@@ -27,6 +34,20 @@ Mit Hilfe des maschinellen Lernens wurden Prognosen für die Daten erstellt, um 
 d. Präsentation:
 
 Die Präsentation der Ergebnisse erfolgt mit Streamlit.
+
+e. Verwendete Technologien
+- Python
+- Pandas
+- NumPy
+- Matplolib
+- Seaborn
+- Plotly
+- Scikit-learn
+- Streamlit
+
+6. NUTZUNG
+
+streamlit run main.py
 
 
 
@@ -61,3 +82,18 @@ Machine learning was used to make predictions for the data to answer three quest
 d. Presentation: 
 
 The presentation of the results is done using Streamlit.
+
+e. Technologies used
+- Python
+- Pandas
+- NumPy
+- Matplolib
+- Seaborn
+- Plotly
+- Scikit-learn
+- Streamlit
+
+6. USAGE
+
+streamlit run main.py
+
