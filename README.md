@@ -1,8 +1,8 @@
+(The text is in German and English. First the German text is shown and then the English text.)
+
 TITEL:
 
 "Auswirkungen der Energiewende auf Luftqualität und Gesundheit in Europa von 2010 bis 2019"
-
-"Impact of the energy transition on air quality and health in Europe from 2010 to 2019"
 
 
 1. BESCHREIBUNG
@@ -10,12 +10,16 @@ TITEL:
 Das Projekt zielt darauf ab, den Zusammenhang zwischen der Energieerzeugungsmatrix (aufgeschlüsselt nach Quellen wie fossile Brennstoffe, erneuerbare Energien, Kernenergie etc.) und der Luftqualität zu untersuchen – und wie diese beiden Faktoren die Inzidenz von schweren Krankheiten (respiratorische Erkrankungen, Herz-Kreislauf-Erkrankungen sowie Lungenkrebs) beeinflussen. Dabei werden Daten von 30 Ländern aus dem Zeitraum 2010 bis 2019 integriert, um sowohl zeitliche als auch länderspezifische Unterschiede zu analysieren.
 
 
-3. ZIEL
+2. ZIEL
    
 Das Hauptziel besteht darin, zu evaluieren, wie die Zusammensetzung der Energieerzeugung (z. B. hoher Anteil fossiler Brennstoffe gegenüber erneuerbaren oder Kernenergie) die Luftqualität beeinflusst und in der Folge die Inzidenz schwerwiegender Krankheiten beeinflusst.
 
+3. DATEN
+- Luftqualität: PM2.5, PM10, NO2 Messungen (Datenquelle: WHO)
+- Gesundheit: Chronische respiratorische Erkrankungen, Kreislaufsystemerkrankungen, Lungenkrebs (Datenquelle: WHO)
+- Energieproduktion: Fossile Energie, Kernenergie, Erneuerbare Energie (Datenquelle: Kaggle)
 
-5. METHODIK
+4. METHODIK
    
 a. Datenvorverarbeitung und Bereinigung:
 
@@ -45,14 +49,19 @@ e. Verwendete Technologien
 - Scikit-learn
 - Streamlit
 
-6. NUTZUNG
+5. NUTZUNG
 
 streamlit run main.py
 
-7. INSTALLATION
+6. INSTALLATION
 
    ```bash
    git clone https://github.com/SusanaFRo/Project_Pollution-Health-Energy_20250321.git
+
+
+TITLE:
+
+"Impact of the energy transition on air quality and health in Europe from 2010 to 2019"
 
 
 1. DESCRIPTION
@@ -60,12 +69,16 @@ streamlit run main.py
 The project aims to analyse the relationship between the energy production matrix (broken down by sources such as fossil fuels, renewable energy, nuclear energy, etc.) and air quality - and how these two factors influence the incidence of serious diseases (respiratory diseases, cardiovascular diseases and lung cancer). Data from 30 countries from the period 2010 to 2019 will be integrated in order to analyse both temporal and country-specific differences.
 
 
-3. TARGET
+2. GOAL
 
 The main objective is to evaluate how the composition of energy production (e.g. high share of fossil fuels versus renewable or nuclear energy) affects air quality and subsequently influences the incidence of serious diseases.
 
+3. DATA
+- Air quality: PM2.5, PM10, NO2 measurements (data source: WHO)
+- Health: Chronic respiratory diseases, circulatory system diseases, lung cancer (data source: WHO)
+- Energy production: Fossil energy, nuclear energy, renewable energy (data source: Kaggle)
 
-5. METHODOLOGY
+4. METHODOLOGY
    
 a. Data pre-processing and adjustment:
 
@@ -94,11 +107,11 @@ e. Technologies used
 - Scikit-learn
 - Streamlit
 
-6. USAGE
+5. USAGE
 
 streamlit run main.py
 
-7. INSTALLATION
+6. INSTALLATION
 
    ```bash
    git clone https://github.com/SusanaFRo/Project_Pollution-Health-Energy_20250321.git
