@@ -49,8 +49,10 @@ e. Verwendete Technologien
 
 streamlit run main.py
 
+7. INSTALLATION
 
-
+   ```bash
+   git clone https://github.com/SusanaFRo/Project_Pollution-Health-Energy_20250321.git
 
 
 
@@ -96,4 +98,9 @@ e. Technologies used
 6. USAGE
 
 streamlit run main.py
+
+7. INSTALLATION
+
+   ```bash
+   git clone https://github.com/SusanaFRo/Project_Pollution-Health-Energy_20250321.git
 
